@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r" />
-  <img src="https://skillicons.dev/icons?i=tableau,docker" />
+  <img src="https://skillicons.dev/icons?i=pycharm,docker" />
 </p>
 
 <hr>
