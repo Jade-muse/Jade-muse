@@ -1,7 +1,9 @@
 <img src="https://github.com/Jade-muse/Jade-muse/blob/main/GitHub_BG.png" alt="Banner of a quartz block with veins of emerald. The name 'Dallin Anderson' is depicted alongside graphics of data visualizations">
 
 - I'm a Senior at Brigham Young University, graduating Fall 2026
+- For Data Visualizations, check out my **[Tableau Vizzes](https://public.tableau.com/app/profile/dallin.anderson7387/vizzes)**
 - 🌱 I’m currently learning **[SQL](https://www.linkedin.com/learning/paths/sql-hands-on-practice?u=2153100)**
+- 🎵 I'm a singer too. Check out my **[Bandcamp](https://jademuse-ic.bandcamp.com/)**
 
 <br>
 
